@@ -1,4 +1,4 @@
-# 🚀 Production RAG System
+# � Production RAG System
 
 AI-powered Retrieval-Augmented Generation system with FastAPI backend and Streamlit frontend.
 
